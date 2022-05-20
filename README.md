@@ -1,2 +1,0 @@
-# todaypro
-"kyogi programing"
